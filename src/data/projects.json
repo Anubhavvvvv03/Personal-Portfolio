@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Feastful Fusion",
+      "imageSrc": "projects/project.jpg",
+      "description": "This project is on a Food Recipe Blog Website ",
+      "skills": ["EJS", "MongoDB", "Node"],
+      "demo": "https://github.com/Anubhavvvvv03/Feastful-Fusion",
+      "source": "https://github.com/Anubhavvvvv03/Feastful-Fusion"
+    },
+    {
+      "title": "Apartment Management System",
+      "imageSrc": "projects/project.jpg",
+      "description": "This is a DBMS Project on managing the apartments",
+      "skills": ["HTML", "JS", "SQL"],
+      "demo": "https://github.com/Anubhavvvvv03/Apartment-management-system",
+      "source": "https://github.com/Anubhavvvvv03/Apartment-management-system"
+    },
+    {
+      "title": "Spotify Clone",
+      "imageSrc": "projects/project.jpg",
+      "description": "This is a project on clone of the app Spotify",
+      "skills": ["HMTL", "CSS", "JS"],
+      "demo": "https://anubhavvvvv03.github.io/Spotify-clone/",
+      "source": "https://github.com/Anubhavvvvv03/Spotify-clone"
+    }
+  ]
